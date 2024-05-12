@@ -20,7 +20,7 @@ This project demonstrates setting up a highly available and scalable HTML web ap
 - **GitHub**: Stores web files and scripts, facilitating version control and collaboration.
 
 ### Diagram
-![Architecture Diagram](path/to/architecture/diagram.png)  <!-- Update this with the actual path to your diagram in the repository -->
+![Host an HTML Website in Default VPC](Host an HTML Website on Three Tier VPC.png)
 
 ## Deployment Process
 
