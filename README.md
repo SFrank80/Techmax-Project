@@ -20,7 +20,7 @@ This project demonstrates setting up a highly available and scalable HTML web ap
 - **GitHub**: Stores web files and scripts, facilitating version control and collaboration.
 
 ### Diagram
-![Alt-text](/https://github.com/SFrank80/Techmax-Project/blob/a0e1e0e895a8d9933428c784d7e499dfbd9624a5/Host%20an%20HTML%20Website%20on%20Three%20Tier%20VPC.png)
+![Alt-text](https://github.com/SFrank80/Techmax-Project/blob/a0e1e0e895a8d9933428c784d7e499dfbd9624a5/Host%20an%20HTML%20Website%20on%20Three%20Tier%20VPC.png)
 
 ## Deployment Process
 
